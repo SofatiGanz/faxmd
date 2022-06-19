@@ -3,19 +3,19 @@ const chalk = require("chalk")
 
 // Other
 global.log0 = fs.readFileSync("./media/fenzo.jpg")
-global.owner = ['6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524']
+global.owner = ['6283894063406','6283894063406','6283894063406','6283894063406','6283894063406','6283894063406','6283894063406','6283894063406','6283894063406','6283894063406','6283894063406','6283894063406','6283894063406','6283894063406','6283894063406','6283894063406','6283894063406','6283894063406','6283894063406','6283894063406','6283894063406','6283894063406','6283894063406','6283894063406','6283894063406','6283894063406','6283894063406','6283894063406','6283894063406','6283894063406','6283894063406','6283894063406','6283894063406','6283894063406','6283894063406','6283894063406']
 global.lolhuman = "" //Beli Di lolhuman.xyz
 global.rkyt = []
 global.banUser = ['6281366679021@s.whatsapp.net']
 global.ntilink = ['120363043965529911@g.us','120363022988111568@g.us']
 global.wlcm = []
 global.gcrevoke = ['19054091487-1424650263@g.us']
-global.packname = "© Fardanbot+🇲🇨\nim Form Indonesia "
-global.packname2 = "fardanBot++\n OwnerPack :6285778815524👿"
-global.author = "Fardan Ganteng 😎"
-global.sessionName = "Fardan"
-global.namebot = "Fardan Bot"
-global.linkgrupss = "https://chat.whatsapp.com/FTgqOEkbfWwJItwvUjhgTI"
+global.packname = "© SOFATIGT+🇲🇨\nim Form Indonesia "
+global.packname2 = "SOFTBOTZ++\n NoBOT : 6285719913161👿"
+global.author = "SOFATIGT"
+global.sessionName = "session"
+global.namebot = "SOFTBOTZ"
+global.linkgrupss = "https://chat.whatsapp.com/D2eD2bb5boJ3ritvruTUgo"
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
@@ -54,7 +54,7 @@ global.APIs = {
 
 // Isi Api Mu Di sini
 global.APIKeys = {
-	'https://zenzapis.xyz': 'Your Key',
+	'https://zenzapis.xyz': 'sanzychan01',
 }
 //Thank Fax Bot
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
